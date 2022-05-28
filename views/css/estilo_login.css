@@ -1,0 +1,39 @@
+
+body{
+    background-color: #1DD174;
+}
+
+.formulario{
+    padding: 15px !important;
+    border-radius: 4% !important;
+}
+
+
+.titulo-login{
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+/* .btn{
+    
+    border-radius: 1vw;
+    position: relative;
+    left: 27%;
+    
+    
+} */
+
+/* Registro */
+
+.contenedor-registro{
+    position: relative;
+    top:10vh;
+}
+
+.bg-img{
+    background: url("../img/img-login.jpg");
+    background-position: center center;
+}
+
+/* Perfil*/
